@@ -1,4 +1,4 @@
-# The Shuffle Editor (https://shuffle.dev)
+#
 
 NOTE: npm commands overwrite the ./public directory.
 

@@ -25,13 +25,7 @@ npm run watch
 npm run build
 ```
 
-## 3. Contact
-
-If you have found any bugs in the Tailwind Builder, have any questions, 
-comments or ideas for new features feel free to contact us:
-
-support@shuffle.dev
 
 ## 4. Credits & Special thanks
 
-We use placeholders from https://unsplash.com/
+
